@@ -385,12 +385,27 @@ table a, #comments a{background-color:inherit;}
 	.font-x3{font-size:1.6rem;}
 }
 
+<<<<<<< HEAD
 
 
 .p1-section{
 	text-align: justify;font-family: Comic Sans MS;
-}
-.p2-section{
-	text-align: justify;font-family: Comic Sans MS;font-style: italic;font-weight:600;
+=======
+.header-style{
+	background-image:url('images/demo/backgrounds/01.png');
+>>>>>>> d524cbcddcd433624e9053a7dc3ed99e115d2f52
 }
 
+article .para{
+	text-align: justify;
+}
+.pdisplay{
+	display: none;
+}
+<<<<<<< HEAD
+
+=======
+.divwrapper{
+	background-image:url('images/demo/backgrounds/02.png');
+}
+>>>>>>> d524cbcddcd433624e9053a7dc3ed99e115d2f52
