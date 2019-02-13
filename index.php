@@ -34,8 +34,8 @@
   <div id="pageintro" class="hoc clear"> 
     <article>
       <p class="heading">Информационни технологии</p>
-      <h2 class="heading title" ><span class="block spancolor" >Бъдещето е в </span> НАС !</h2>
-      <footer><a href="#" class="footercolor">Прочети повече &raquo;</a></footer>
+      <h2 class="heading" style="color: orange;"><span class="block" style="color: lightblue;">Бъдещето е в </span> НАС !</h2>
+      <footer><a href="#" style="color: silver;">Прочети повече &raquo;</a></footer>
     </article>
   </div>
 </header>

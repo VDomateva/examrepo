@@ -419,6 +419,7 @@ article .para{
 .divwrapper{
 	background-image:url('images/demo/backgrounds/02.png');
 }
+<<<<<<< HEAD
 
 .text-st{
 	color: black !important;
@@ -429,3 +430,14 @@ article .para{
 .nov{
 	background-color: silver;
 }
+=======
+header .title{
+	color: orange;
+}
+header .spancolor{
+	color: lightblue;
+}
+header .footercolor{
+	color: silver;
+}
+>>>>>>> 3ac58329049c0ce44d365ebc78b01eb7df678a9e
