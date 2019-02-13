@@ -385,12 +385,10 @@ table a, #comments a{background-color:inherit;}
 	.font-x3{font-size:1.6rem;}
 }
 
-<<<<<<< HEAD
-=======
-.p1-section{
-	text-align: justify;font-family: Comic Sans MS;
+.header-style{
+	background-image:url('images/demo/backgrounds/01.png');
 }
-.p2-section{
-	text-align: justify;font-family: Comic Sans MS;font-style: italic;font-weight:600;
+
+article .para{
+	text-align: justify;
 }
->>>>>>> 59e8a8153e3297d6eee96035b90312456c4d3ac5
