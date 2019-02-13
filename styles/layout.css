@@ -392,3 +392,9 @@ table a, #comments a{background-color:inherit;}
 article .para{
 	text-align: justify;
 }
+.pdisplay{
+	display: none;
+}
+.divwrapper{
+	background-image:url('images/demo/backgrounds/02.png');
+}
