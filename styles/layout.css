@@ -391,14 +391,20 @@ table a, #comments a{background-color:inherit;}
 .p1-section{
 	text-align: justify;font-family: Comic Sans MS;
 }
-<<<<<<< HEAD
+
+.p2-section{
+	text-align: justify;
+	font-family: Comic Sans MS;
+	font-style: italic;
+	font-weight: 600;
+}
 .header-style{
 	background-image:url('images/demo/backgrounds/01.png');
+}
 
-=======
 .style-header{
 	background-image:url('images/demo/backgrounds/01.png');
->>>>>>> af9e2db1bf0fd591b5d526765e4cc632bcda742c
+
 }
 
 article .para{
